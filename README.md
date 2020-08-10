@@ -4,6 +4,7 @@
 <img src="https://imgur.com/3SwWhBh.png" alt="">
 <p>Así mismo, el obrero recibe una bonificación especial de acuerdo a la cantidad que produce:</p>
 <img src="https://imgur.com/RcVD1jH.png" alt="">
+<p>Además del total de ingresos se descuenta 75 por seguro. </p>
 
 <h1><code>Captura de Programa</code></h1>
 
